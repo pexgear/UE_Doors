@@ -16,6 +16,5 @@ Steps:
 ## Videos
 ...in the Resources directory
 
-https://gitlab.com/genna.peppe/doorsmassivepenguin/-/blob/master/Resources/%231-%20Sliding%20Doors.webm
-
-https://gitlab.com/genna.peppe/doorsmassivepenguin/-/blob/master/Resources/%232-%20HingeDoors.webm
+- https://github.com/pexgear/doors_for_unreal/blob/main/Resources/%231-%20Sliding%20Doors.webm
+- https://github.com/pexgear/doors_for_unreal/blob/main/Resources/%232-%20HingeDoors.webm
